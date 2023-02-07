@@ -1,9 +1,3 @@
----
-title : Sadok Jerad site
-permalink : /
-layout : default
----
-
 
 **Sadok Jerad** &emsp; &emsp;   [About me](#about-me) &ensp; [Posts](#posts) &ensp;    [Papers](#papers)  &ensp; [Contact](#contact-and-social-media) &ensp; [CV](assets/CV_Sadok.pdf)
 
