@@ -28,20 +28,18 @@ Papers
 ======
 
 * Convergence properties of an Objective-Function-Free Optimization regularization algorithm, including an &Oscr; ($\epsilon^{-3/2}$)  complexity bound
-{% include button.html url="https://arxiv.org/pdf/2203.09947.pdf" %}.
+[paper](https://arxiv.org/pdf/2203.09947.pdf){: .btn}.
 
 
-
-* Parametric complexity analysis for a class of first-order Adagrad-like algorithms 
- {% include button.html url="https://arxiv.org/pdf/2203.01647.pdf" %}.
+* Parametric complexity analysis for a class of first-order Adagrad-like algorithms  [paper](https://arxiv.org/pdf/2203.01647.pdf){: .btn}.
 
 
 * First-Order Objective-Function-Free Optimization Algorithms
-and Their Complexity
- {% include button.html url="https://arxiv.org/pdf/2203.01757.pdf" %}.
+and Their Complexity [paper](https://arxiv.org/pdf/2203.01757.pdf){: .btn}.
  
 * H&ouml;lder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points 
- {% include button.html url="https://arxiv.org/pdf/2104.02564.pdf" %}.
+[paper](https://arxiv.org/pdf/2104.02564.pdf){: .btn}
+
 
 ##### Contact and social media
 _______
