@@ -27,16 +27,18 @@ Posts
 Papers
 ======
 
-* Convergence properties of an Objective-Function-Free Optimization regularization algorithm, including an &Oscr; ($\epsilon^{-3/2}$)  complexity bound <kbd>[paper](https://arxiv.org/pdf/2203.09947.pdf) </kbd>
+* Convergence properties of an Objective-Function-Free Optimization regularization algorithm, including an &Oscr; ($\epsilon^{-3/2}$)  complexity bound
+<button name="button1" onclick="https://arxiv.org/pdf/2203.09947.pdf">paper</button>.
 
 
-* Parametric complexity analysis for a class of first-order Adagrad-like algorithms <kbd>[paper](https://arxiv.org/pdf/2203.01647.pdf)</kbd>. 
+
+* Parametric complexity analysis for a class of first-order Adagrad-like algorithms <button name="button2" onclick="https://arxiv.org/pdf/2203.01647.pdf">paper</button>.
 
 
 * First-Order Objective-Function-Free Optimization Algorithms
-and Their Complexity <kbd>[paper](https://arxiv.org/pdf/2203.01757.pdf) </kbd>. 
+and Their Complexity  <button name="button3" onclick="https://arxiv.org/pdf/2203.01757.pdf">paper</button>.
 
-* H&ouml;lder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points <kbd>[paper](https://arxiv.org/pdf/2104.02564.pdf)</kbd>. 
+* H&ouml;lder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points <button name="button4" onclick="https://arxiv.org/pdf/2104.02564.pdf ">paper</button>. 
 
 
 ##### Contact and social media
